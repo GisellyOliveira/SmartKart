@@ -1,0 +1,49 @@
+*******************************************************
+               SmartKart MVP Canvas
+*******************************************************
+
+_______________________________________________________
+Miro board: https://miro.com/app/board/uXjVM7IcC10=/?share_link_id=223606976253
+_______________________________________________________
+
+Problem Statement:
+The current personas, including a multi-tasking mother, a busy husband, and a student, face challenges in managing their household tasks, grocery shopping, and maintaining a healthy routine. They also want to incorporate sustainable practices and conscious consumption by supporting local producers. There is a need for an app that assists in creating and sharing grocery lists, locating nearby stores, and promoting healthy habits and sustainable choices.
+
+Solution:
+Our Supermarket List App is designed to address the challenges faced by our target personas. It offers a user-friendly interface and features that enhance efficiency, organization, and conscious consumption.
+
+Key Features:
+
+User Registration and Profiles:
+
+Users can create individual profiles with relevant information like preferences, dietary restrictions, and allergies.
+The app allows users to set goals for healthy eating habits, conscious consumption, and supporting local producers.
+Grocery List Creation and Management:
+
+Users can easily create, manage, and customize multiple grocery lists.
+They can add items to the lists by typing, voice recognition, or scanning barcodes.
+The app suggests popular and frequently purchased items based on user preferences and history.
+List Sharing and Collaboration:
+
+Users can share their grocery lists with family, friends, or roommates.
+Collaborators can add or remove items, mark items as purchased, and leave comments or notes.
+Geolocation and Store Locator:
+
+The app integrates with geolocation services to identify nearby supermarkets and grocery stores.
+Users can view store details such as operating hours, contact information, and available promotions.
+The app may also provide directions to the selected store.
+Healthy Routine and Recipe Recommendations:
+
+The app offers personalized recommendations for healthy meal planning based on user preferences and dietary restrictions.
+It suggests recipes, meal ideas, and provides nutritional information.
+Users can save favorite recipes and create meal plans for the week.
+Conscious Consumption and Local Producers:
+
+The app promotes conscious consumption by highlighting sustainable and eco-friendly products.
+It provides information about local producers and their products, encouraging users to support them.
+Users can filter and search for products based on criteria like organic, fair trade, or locally sourced.
+Expense Management and Offers:
+
+The app tracks and manages expenses by providing an overview of shopping history, expenses per list, and savings.
+It displays available discounts, offers, and coupons for selected items or stores.
+By offering these features, our Supermarket List App aims to simplify grocery shopping, promote healthy routines, encourage conscious consumption, and support local producers. It is designed to meet the needs of busy individuals and families, helping them manage their time, finances, and contribute to a sustainable future.
